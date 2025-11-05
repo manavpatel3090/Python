@@ -1,2 +1,2 @@
-# Pyhton
-Starting to learn python
+# Python
+This repository keeps track of my python learning
